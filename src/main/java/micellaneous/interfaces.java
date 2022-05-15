@@ -1,0 +1,4 @@
+package micellaneous;
+
+interface interfaces {
+}
