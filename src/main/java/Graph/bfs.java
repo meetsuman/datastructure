@@ -17,6 +17,7 @@ public class bfs {
     }
     void addEdge(int v,int c){
             a[v].add(c);
+        System.out.println("value"+ v+" "+a[v]);
     }
 
     void bfsSearch(int ele){
